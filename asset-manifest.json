@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vaninabot/static/css/main.27d42757.chunk.css",
+    "main.js": "/vaninabot/static/js/main.e9aad66b.chunk.js",
+    "main.js.map": "/vaninabot/static/js/main.e9aad66b.chunk.js.map",
+    "runtime-main.js": "/vaninabot/static/js/runtime-main.b41a9c0c.js",
+    "runtime-main.js.map": "/vaninabot/static/js/runtime-main.b41a9c0c.js.map",
+    "static/css/2.44d809a4.chunk.css": "/vaninabot/static/css/2.44d809a4.chunk.css",
+    "static/js/2.54ff73ae.chunk.js": "/vaninabot/static/js/2.54ff73ae.chunk.js",
+    "static/js/2.54ff73ae.chunk.js.map": "/vaninabot/static/js/2.54ff73ae.chunk.js.map",
+    "static/js/3.4e8f5396.chunk.js": "/vaninabot/static/js/3.4e8f5396.chunk.js",
+    "static/js/3.4e8f5396.chunk.js.map": "/vaninabot/static/js/3.4e8f5396.chunk.js.map",
+    "index.html": "/vaninabot/index.html",
+    "static/css/2.44d809a4.chunk.css.map": "/vaninabot/static/css/2.44d809a4.chunk.css.map",
+    "static/css/main.27d42757.chunk.css.map": "/vaninabot/static/css/main.27d42757.chunk.css.map",
+    "static/js/2.54ff73ae.chunk.js.LICENSE.txt": "/vaninabot/static/js/2.54ff73ae.chunk.js.LICENSE.txt",
+    "static/media/cveta.8f685a35.jpg": "/vaninabot/static/media/cveta.8f685a35.jpg",
+    "static/media/logo.6ce24c58.svg": "/vaninabot/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b41a9c0c.js",
+    "static/css/2.44d809a4.chunk.css",
+    "static/js/2.54ff73ae.chunk.js",
+    "static/css/main.27d42757.chunk.css",
+    "static/js/main.e9aad66b.chunk.js"
+  ]
+}
